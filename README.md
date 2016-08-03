@@ -1,2 +1,0 @@
-# kptc
-Kuwait Transport 
